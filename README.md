@@ -1,24 +1,11 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ongoing Ruby on Rails project from the Odin Project. 
 
-Things you may want to cover:
+**Required languages**: HTML, CSS, JS, Ruby, Ruby-on-Rails
 
-* Ruby version
+# What I Learned
 
-* System dependencies
+* MVC usage and workflow. 
+* Ruby troubleshooting. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
