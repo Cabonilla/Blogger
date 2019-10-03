@@ -1,4 +1,6 @@
 class TagsController < ApplicationController
+  before_action :require_login, only: [:destroy]
+
   
   def index 
     @tag = Tag.all
@@ -14,6 +16,6 @@ class TagsController < ApplicationController
     flash.notice = "tag destroyed"
     
     redirect_to action: "index"
-  end
+    end
   
 end
