@@ -1,24 +1,14 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small blogging appication using Ruby on Rails.
 
-Things you may want to cover:
+This project will be ongoing. 
 
-* Ruby version
+**Required languages**: HTML, CSS, JS, Ruby, Ruby-on-Rails
 
-* System dependencies
+# What I Learned
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Using MVC is applications.
+* Proper routing using RoR.
+* Using Web frameworks to create quick, live websites.
+* Back-end data manipulation.
