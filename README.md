@@ -1,24 +1,13 @@
-# README
+# Simple Express Library
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple express library using official express documentation.
 
-Things you may want to cover:
+**Required languages**: HTML, CSS, JS, Node JS, Express
 
-* Ruby version
+# What I Learned
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Express routing and site creation. 
+* MongoDB data storage. 
+* Dynamic site interaction.
+* Ruby debugging.
+* Updating legacy Ruby project. 
