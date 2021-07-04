@@ -1,13 +1,16 @@
-# Simple Express Library
+# Blogger
 
-A simple express library using official express documentation.
+This is a small blogging appication using Ruby on Rails.
 
-**Required languages**: HTML, CSS, JS, Node JS, Express
+This project will be ongoing. 
+
+**Required languages**: HTML, CSS, JS, Ruby, Ruby-on-Rails
 
 # What I Learned
 
-* Express routing and site creation. 
-* MongoDB data storage. 
-* Dynamic site interaction.
-* Ruby debugging.
-* Updating legacy Ruby project. 
+* Using MVC is applications.
+* Proper routing using RoR.
+* Using Web frameworks to create quick, live websites.
+* Back-end data manipulation.
+* Updating legacy Ruby on Rails app. 
+* Ruby on Rails troubleshooting. 
