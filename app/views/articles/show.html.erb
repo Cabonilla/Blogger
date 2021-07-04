@@ -7,7 +7,6 @@
   <li><%= link_to "Destroy", article_path(@article),
                   method: :delete,
                   data: { confirm: "Are you sure?" } %></li>
-  <li><%= link_to "Back", :back %></li>
 </ul>
 
 <h2>Comments</h2>
@@ -15,3 +14,5 @@
 
 <h2>Add a comment:</h2>
 <%= render 'comments/form' %>
+
+<%= link_to "Home", root_path %>
